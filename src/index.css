@@ -6,11 +6,6 @@
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
@@ -38,7 +33,7 @@ h1 {
 ul {
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin: 10 px;
 }
 button {
   border-radius: 8px;
@@ -68,6 +63,6 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color: #f9f9f9;
+    background-color: #aae8d0;
   }
 }
